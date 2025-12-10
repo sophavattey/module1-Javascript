@@ -8,6 +8,10 @@ created by: Nou Sophavattey
 ## Project Overview
 User Profile built with vanilla JavaScript that demonstrates complete CRUD (Create, Read, Update, Delete) operations. The application allows users to manage personal profiles with avatar images, contact information, and company details.
 
+
+![alt text](./img/image.png)
+
+
 ## Technical Implementation
 Modern JavaScript Concepts Used:
 - ES6 Modules - Modular code architecture with import/export
