@@ -2,6 +2,9 @@
 
 created by: Nou Sophavattey
 
+- project code: https://github.com/sophavattey/module1-Javascript.git
+- project demo: https://sophavattey.github.io/module1-Javascript/
+
 ## Project Overview
 User Profile built with vanilla JavaScript that demonstrates complete CRUD (Create, Read, Update, Delete) operations. The application allows users to manage personal profiles with avatar images, contact information, and company details.
 
